@@ -2,6 +2,14 @@
 
 MY POLYmorphic ASSOCication EXPeriment
 
+```
+bin/rails r a.rb
+bin/rails c
+> # Paste b.rb lines
+```
+
+---
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
